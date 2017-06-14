@@ -5,11 +5,7 @@
   "description": "A pretty high contrast purple centered theme.",
   "keywords": [
     "syntax",
-    "theme",
-    "purple",
-    "high",
-    "contrast":wq
- 
+    "theme"
   ],
   "repository": "https://github.com/atom/purple-contrast-pretty-syntax",
   "license": "MIT",
